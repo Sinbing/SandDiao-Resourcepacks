@@ -8,5 +8,5 @@
 
 但 **1.13** 和 **1.15** 都能跑得起这个材质包
 
-材质图片位于 **./XB精污\assets\minecraft\textures\block** 目录下，瞎眼的材质可以自行删除
+材质图片位于 **.\XB精污\assets\minecraft\textures\block** 目录下，瞎眼的材质可以自行删除
 材质包共享请遵循 **CC-BY-NC-SA 4.0** 协议。
